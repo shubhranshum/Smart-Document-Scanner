@@ -1,0 +1,11 @@
+filename,status,method,mean_corner_error_px,normalized_error_pct,time_ms,failure_reason,description
+doc_01_mild_angle_slate.jpg,PASS,standard_canny_approx,0.65,0.046,61.36,,Mild perspective tilt on slate background
+doc_02_moderate_angle_wood.jpg,PASS,standard_canny_approx,0.63,0.044,56.67,,Moderate rotational perspective on wooden surface
+doc_03_steep_perspective_gradient.jpg,PASS,standard_canny_approx,0.56,0.039,64.65,,Steep trapezoidal perspective with vignette lighting
+doc_04_skewed_left_slate.jpg,PASS,color_canny_approx,0.6,0.043,55.48,,Asymmetric camera tilt with corner shadow
+doc_05_landscape_wood.jpg,PASS,hsv_paper_approx,0.66,0.047,54.72,,Landscape oriented document on textured background
+doc_06_compact_receipt_gradient.jpg,PASS,color_canny_hull,0.67,0.047,52.9,,Centered invoice with clear high contrast margins
+doc_07_strong_vignette_slate.jpg,PASS,color_canny_approx,0.65,0.046,57.01,,Vignette shadow testing adaptive binarization
+doc_08_rotated_diamond_wood.jpg,PASS,color_canny_approx,0.41,0.029,55.38,,Noticeable clockwise rotational angle
+doc_09_wide_panoramic_slate.jpg,PASS,standard_canny_approx,0.65,0.046,55.32,,Wide aspect ratio document
+doc_10_high_angle_gradient.jpg,PASS,color_canny_hull,0.57,0.04,53.67,,Top-down angled perspective projection

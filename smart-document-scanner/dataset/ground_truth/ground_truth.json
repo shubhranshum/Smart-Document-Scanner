@@ -1,0 +1,292 @@
+{
+  "doc_01_mild_angle_slate.jpg": {
+    "id": "doc_01_mild_angle_slate",
+    "filename": "doc_01_mild_angle_slate.jpg",
+    "description": "Mild perspective tilt on slate background",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 180.0,
+        "y": 120.0
+      },
+      {
+        "label": "TR",
+        "x": 820.0,
+        "y": 140.0
+      },
+      {
+        "label": "BR",
+        "x": 790.0,
+        "y": 880.0
+      },
+      {
+        "label": "BL",
+        "x": 150.0,
+        "y": 850.0
+      }
+    ]
+  },
+  "doc_02_moderate_angle_wood.jpg": {
+    "id": "doc_02_moderate_angle_wood",
+    "filename": "doc_02_moderate_angle_wood.jpg",
+    "description": "Moderate rotational perspective on wooden surface",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 140.0,
+        "y": 180.0
+      },
+      {
+        "label": "TR",
+        "x": 860.0,
+        "y": 100.0
+      },
+      {
+        "label": "BR",
+        "x": 820.0,
+        "y": 920.0
+      },
+      {
+        "label": "BL",
+        "x": 100.0,
+        "y": 820.0
+      }
+    ]
+  },
+  "doc_03_steep_perspective_gradient.jpg": {
+    "id": "doc_03_steep_perspective_gradient",
+    "filename": "doc_03_steep_perspective_gradient.jpg",
+    "description": "Steep trapezoidal perspective with vignette lighting",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 280.0,
+        "y": 160.0
+      },
+      {
+        "label": "TR",
+        "x": 740.0,
+        "y": 150.0
+      },
+      {
+        "label": "BR",
+        "x": 920.0,
+        "y": 860.0
+      },
+      {
+        "label": "BL",
+        "x": 100.0,
+        "y": 840.0
+      }
+    ]
+  },
+  "doc_04_skewed_left_slate.jpg": {
+    "id": "doc_04_skewed_left_slate",
+    "filename": "doc_04_skewed_left_slate.jpg",
+    "description": "Asymmetric camera tilt with corner shadow",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 120.0,
+        "y": 100.0
+      },
+      {
+        "label": "TR",
+        "x": 780.0,
+        "y": 190.0
+      },
+      {
+        "label": "BR",
+        "x": 840.0,
+        "y": 870.0
+      },
+      {
+        "label": "BL",
+        "x": 200.0,
+        "y": 900.0
+      }
+    ]
+  },
+  "doc_05_landscape_wood.jpg": {
+    "id": "doc_05_landscape_wood",
+    "filename": "doc_05_landscape_wood.jpg",
+    "description": "Landscape oriented document on textured background",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 160.0,
+        "y": 220.0
+      },
+      {
+        "label": "TR",
+        "x": 840.0,
+        "y": 180.0
+      },
+      {
+        "label": "BR",
+        "x": 800.0,
+        "y": 800.0
+      },
+      {
+        "label": "BL",
+        "x": 120.0,
+        "y": 840.0
+      }
+    ]
+  },
+  "doc_06_compact_receipt_gradient.jpg": {
+    "id": "doc_06_compact_receipt_gradient",
+    "filename": "doc_06_compact_receipt_gradient.jpg",
+    "description": "Centered invoice with clear high contrast margins",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 260.0,
+        "y": 200.0
+      },
+      {
+        "label": "TR",
+        "x": 720.0,
+        "y": 220.0
+      },
+      {
+        "label": "BR",
+        "x": 680.0,
+        "y": 820.0
+      },
+      {
+        "label": "BL",
+        "x": 220.0,
+        "y": 780.0
+      }
+    ]
+  },
+  "doc_07_strong_vignette_slate.jpg": {
+    "id": "doc_07_strong_vignette_slate",
+    "filename": "doc_07_strong_vignette_slate.jpg",
+    "description": "Vignette shadow testing adaptive binarization",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 200.0,
+        "y": 150.0
+      },
+      {
+        "label": "TR",
+        "x": 800.0,
+        "y": 170.0
+      },
+      {
+        "label": "BR",
+        "x": 750.0,
+        "y": 860.0
+      },
+      {
+        "label": "BL",
+        "x": 180.0,
+        "y": 820.0
+      }
+    ]
+  },
+  "doc_08_rotated_diamond_wood.jpg": {
+    "id": "doc_08_rotated_diamond_wood",
+    "filename": "doc_08_rotated_diamond_wood.jpg",
+    "description": "Noticeable clockwise rotational angle",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 220.0,
+        "y": 120.0
+      },
+      {
+        "label": "TR",
+        "x": 850.0,
+        "y": 260.0
+      },
+      {
+        "label": "BR",
+        "x": 730.0,
+        "y": 920.0
+      },
+      {
+        "label": "BL",
+        "x": 120.0,
+        "y": 760.0
+      }
+    ]
+  },
+  "doc_09_wide_panoramic_slate.jpg": {
+    "id": "doc_09_wide_panoramic_slate",
+    "filename": "doc_09_wide_panoramic_slate.jpg",
+    "description": "Wide aspect ratio document",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 130.0,
+        "y": 240.0
+      },
+      {
+        "label": "TR",
+        "x": 880.0,
+        "y": 200.0
+      },
+      {
+        "label": "BR",
+        "x": 850.0,
+        "y": 760.0
+      },
+      {
+        "label": "BL",
+        "x": 90.0,
+        "y": 800.0
+      }
+    ]
+  },
+  "doc_10_high_angle_gradient.jpg": {
+    "id": "doc_10_high_angle_gradient",
+    "filename": "doc_10_high_angle_gradient.jpg",
+    "description": "Top-down angled perspective projection",
+    "image_width": 1000,
+    "image_height": 1000,
+    "ground_truth_corners": [
+      {
+        "label": "TL",
+        "x": 310.0,
+        "y": 180.0
+      },
+      {
+        "label": "TR",
+        "x": 710.0,
+        "y": 190.0
+      },
+      {
+        "label": "BR",
+        "x": 860.0,
+        "y": 850.0
+      },
+      {
+        "label": "BL",
+        "x": 150.0,
+        "y": 840.0
+      }
+    ]
+  }
+}
